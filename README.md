@@ -108,6 +108,6 @@ $ docker run --log-driver=fluentd --name demo2 busybox echo "Hello Fluentd!"
 ```
 Open the kibana tab in browser and you wil see there logs of the perticular containers.
 
-![Kibana Dashboard](/update/Logging-with-Fluentd-ELK/Kibana.png)
+![Kibana Dashboard](https://raw.githubusercontent.com/vishalcloudyuga/Logging-with-Fluentd-ELK/master/Kibana.png)
 
 
